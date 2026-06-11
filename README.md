@@ -4,12 +4,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/shrikant712002/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/shrikant712002/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/shrikant712002/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/shrikant712002/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
