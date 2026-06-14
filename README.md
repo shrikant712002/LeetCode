@@ -24,4 +24,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/shrikant712002/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0058-length-of-last-word](https://github.com/shrikant712002/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 <!---LeetCode Topics End-->
