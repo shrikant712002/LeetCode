@@ -26,6 +26,7 @@
 | [0141-linked-list-cycle](https://github.com/shrikant712002/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shrikant712002/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikant712002/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/shrikant712002/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shrikant712002/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shrikant712002/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -77,9 +78,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrikant712002/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/shrikant712002/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shrikant712002/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/shrikant712002/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shrikant712002/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shrikant712002/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/shrikant712002/LeetCode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
