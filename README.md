@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikant712002/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shrikant712002/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shrikant712002/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shrikant712002/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/shrikant712002/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
@@ -25,6 +26,7 @@
 | [0141-linked-list-cycle](https://github.com/shrikant712002/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shrikant712002/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikant712002/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shrikant712002/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/shrikant712002/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1089-duplicate-zeros](https://github.com/shrikant712002/LeetCode/tree/main/1089-duplicate-zeros/) | Easy |
@@ -58,6 +60,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikant712002/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shrikant712002/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/shrikant712002/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +78,8 @@
 | [0141-linked-list-cycle](https://github.com/shrikant712002/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shrikant712002/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shrikant712002/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/shrikant712002/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
