@@ -59,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/shrikant712002/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/shrikant712002/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,11 +87,13 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/shrikant712002/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/shrikant712002/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/shrikant712002/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0231-power-of-two](https://github.com/shrikant712002/LeetCode/tree/main/0231-power-of-two/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
