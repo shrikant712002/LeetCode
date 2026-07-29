@@ -14,6 +14,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikant712002/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/shrikant712002/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/shrikant712002/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/shrikant712002/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/shrikant712002/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/shrikant712002/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shrikant712002/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -80,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shrikant712002/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/shrikant712002/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/shrikant712002/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@
 | [0141-linked-list-cycle](https://github.com/shrikant712002/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shrikant712002/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/shrikant712002/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/shrikant712002/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shrikant712002/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
