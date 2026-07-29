@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/shrikant712002/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/shrikant712002/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/shrikant712002/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/shrikant712002/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/shrikant712002/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/shrikant712002/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -43,6 +44,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/shrikant712002/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shrikant712002/LeetCode/tree/main/0016-3sum-closest/) | Medium |
+| [0056-merge-intervals](https://github.com/shrikant712002/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/shrikant712002/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
