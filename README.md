@@ -67,6 +67,7 @@
 | [0383-ransom-note](https://github.com/shrikant712002/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0709-to-lower-case](https://github.com/shrikant712002/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrikant712002/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/shrikant712002/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@
 | [0383-ransom-note](https://github.com/shrikant712002/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shrikant712002/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shrikant712002/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/shrikant712002/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +149,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/shrikant712002/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/shrikant712002/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
