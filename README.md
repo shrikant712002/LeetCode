@@ -64,6 +64,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shrikant712002/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/shrikant712002/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/shrikant712002/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+| [0383-ransom-note](https://github.com/shrikant712002/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0709-to-lower-case](https://github.com/shrikant712002/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shrikant712002/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Recursion
@@ -96,6 +97,7 @@
 | [0141-linked-list-cycle](https://github.com/shrikant712002/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/shrikant712002/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/shrikant712002/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0383-ransom-note](https://github.com/shrikant712002/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/shrikant712002/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shrikant712002/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Bit Manipulation
@@ -141,4 +143,8 @@
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/shrikant712002/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/shrikant712002/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/shrikant712002/LeetCode/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
