@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/shrikant712002/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/shrikant712002/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0027-remove-element](https://github.com/shrikant712002/LeetCode/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/shrikant712002/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/shrikant712002/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -81,6 +82,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shrikant712002/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
