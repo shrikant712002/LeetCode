@@ -23,6 +23,7 @@
 | [0724-find-pivot-index](https://github.com/shrikant712002/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/shrikant712002/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shrikant712002/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/shrikant712002/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/shrikant712002/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/shrikant712002/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/shrikant712002/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -89,6 +90,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shrikant712002/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/shrikant712002/LeetCode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shrikant712002/LeetCode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/shrikant712002/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
