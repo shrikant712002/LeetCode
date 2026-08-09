@@ -199,6 +199,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shrikant712002/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shrikant712002/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shrikant712002/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/shrikant712002/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +221,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shrikant712002/LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/shrikant712002/LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/shrikant712002/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/shrikant712002/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +231,8 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/shrikant712002/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shrikant712002/LeetCode/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/shrikant712002/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/shrikant712002/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
